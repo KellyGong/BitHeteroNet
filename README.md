@@ -1,6 +1,6 @@
 # BitHeteroNet
 
-This is the source code of WWW'26 submission "BitHeteroNet: A Heterogeneous Network Benchmark for Enhanced Anomaly Detection in Bitcoin Transactions".
+The source code and dataset for the WWW'26 paper "BitHeteroNet: A Heterogeneous Network Benchmark for Enhanced Anomaly Detection in Bitcoin Transactions".
 
 ![The proposed framework](dataset_example.png)
 
